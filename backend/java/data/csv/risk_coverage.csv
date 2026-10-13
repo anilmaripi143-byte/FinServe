@@ -1,0 +1,2 @@
+record_id,timestamp,entities,risk_relationships,coverage_result
+REC-000008,2026-10-13T18:49:16.6530742,BANK_A;BANK_B;BANK_C;BANK_D;BANK_E,BANK_A-BANK_B;BANK_A-BANK_C;BANK_B-BANK_D;BANK_C-BANK_D;BANK_D-BANK_E,100
